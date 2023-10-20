@@ -12,7 +12,7 @@ https://www.youtube.com/playlist?list=PLHAhlPfDpY-RqX76jE_qMKpaP6eGh5uMJ
 
 BKash sandbox validation:
 
-[![Watch the video](https://img.youtube.com/vi/TvTd7SvVQ8M/hqdefault.jpg)](https://www.youtube.com/embed/TvTd7SvVQ8M)
+
 
 
 
