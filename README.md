@@ -6,16 +6,6 @@ BKash payment gateway in Flutter project.
 
 - Receive payment from users via bKash merchant account
 
-## Flutter - BKash Youtube tutorial
-Flutter - BKash playlist:
-https://www.youtube.com/playlist?list=PLHAhlPfDpY-RqX76jE_qMKpaP6eGh5uMJ
-
-BKash sandbox validation:
-
-
-
-
-
 ## Screenshots
 
 Checkout Screen
